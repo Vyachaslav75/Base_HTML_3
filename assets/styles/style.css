@@ -47,8 +47,9 @@
 }
 
 .rect {
-    border: 1px solid #000;
+    /* border: 1px solid #000; */
     padding: 15px;
+    box-shadow: 15px 25px 56px 6px rgba(0, 0, 0, 0.06);
 }
 
 .title1 {
@@ -58,7 +59,7 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    margin-left: 15px;
+    margin-top: 25px;
 }
 
 .icon {
