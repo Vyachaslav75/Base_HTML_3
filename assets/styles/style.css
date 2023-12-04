@@ -90,3 +90,65 @@
     /* 16.5px */
     margin-bottom: 35px;
 }
+
+.tittle2 {
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+.title-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 92px;
+    align-items: center;
+    gap: 19px;
+
+}
+
+.title-text {
+    color: #666;
+    text-align: center;
+    font-family: Gilroy-Regular;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    /* 24px */
+    width: 682px;
+}
+
+.body-main {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.title-main {
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.text-main {
+    color: #AAA;
+    text-align: center;
+    font-family: Gilroy-Regular;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    /* 22.5px */
+}
+
+.rect2 {
+    gap: 30px;
+}
